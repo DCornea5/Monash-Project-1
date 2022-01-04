@@ -17,19 +17,13 @@ The data source used for this Covid Cases analysis project is owid-covid-data.cs
 According the the owid-covid-data on 15th December 2021 there were 272Mil cases recorded worldwide.
 
 Countries with the highest number of cases include United States with 48Mil cases, India 34Mil and Brazil 22Mil.
-
-![Highest_Cases](https://github.com/MSufra/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Highest%20Number%20of%20Cases%20by%20Country.png)
-
+"![Highest Cases]https://github.com/MSufra/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Highest%20Number%20of%20Cases%20by%20Country.png
 
 During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
-
-![(New_Cases)](https://github.com/DCornea5/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Box%20Plot%20New%20Cases%20Selected%20Countries.png)
 
 From the data analysed the correlation between new cases and new vaccines or people fully vaccinated is very weak.
 
 However, there is a strong positive correlation between the new cases and new deaths demonstrated by a r-squared of 0.71.
-
-![(Deaths_vs_Cases)](DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide - Linear Regression.png)
 
 Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated. On the other hand, the countries with the highest percentage of population vaccinated are Gibraltar, United Arab Emirates and Portugal.
 
