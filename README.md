@@ -23,7 +23,7 @@ Countries with the highest number of cases include United States with 48Mil case
 
 During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
 
-![(New_Cases)](DC Output/DC Figures/Fig DC Box Plot New Cases Selected Countries.png)
+![(New_Cases)](https://github.com/DCornea5/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Box%20Plot%20New%20Cases%20Selected%20Countries.png)
 
 From the data analysed the correlation between new cases and new vaccines or people fully vaccinated is very weak.
 
